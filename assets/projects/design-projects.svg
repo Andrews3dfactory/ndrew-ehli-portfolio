@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 405">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#20233c"/><stop offset="1" stop-color="#11151f"/></linearGradient><radialGradient id="glow"><stop stop-color="#bc9cff" stop-opacity=".18"/><stop offset="1" stop-color="#bc9cff" stop-opacity="0"/></radialGradient></defs>
+  <rect width="720" height="405" fill="url(#bg)"/><circle cx="483" cy="172" r="222" fill="url(#glow)"/>
+  <rect x="50" y="42" width="620" height="290" rx="11" fill="#121722" stroke="#50536e"/><path d="M50 78h620" stroke="#44485e"/><circle cx="70" cy="60" r="4" fill="#bda5ff"/><circle cx="85" cy="60" r="4" fill="#5a6073"/><circle cx="100" cy="60" r="4" fill="#5a6073"/>
+  <rect x="71" y="99" width="245" height="209" rx="6" fill="#27304a"/><path d="M71 255 188 130l128 125v53H71Z" fill="#495276"/><circle cx="248" cy="158" r="31" fill="#d4bbff"/><path d="M71 236q54-48 103 0t142-4" fill="none" stroke="#79c9d6" stroke-width="4"/>
+  <rect x="334" y="100" width="311" height="92" rx="6" fill="#202a3a"/><text x="355" y="130" fill="#b9c9de" font-family="monospace" font-size="9" letter-spacing="2">VISUAL LANGUAGE</text><text x="355" y="162" fill="#eef5fb" font-family="Arial" font-size="21" font-weight="650">Shape an idea.</text>
+  <rect x="335" y="209" width="67" height="54" rx="5" fill="#6ba8e9"/><rect x="412" y="209" width="67" height="54" rx="5" fill="#73d0d6"/><rect x="489" y="209" width="67" height="54" rx="5" fill="#f0bd76"/><rect x="566" y="209" width="67" height="54" rx="5" fill="#bf9cf3"/>
+  <text x="335" y="289" fill="#9eaabf" font-family="monospace" font-size="8">COLOR / FORM / TYPE</text>
+  <text x="50" y="363" fill="#f0f3ff" font-family="Arial,sans-serif" font-size="18" font-weight="650">DESIGN PROJECTS</text><text x="50" y="386" fill="#a5a5bf" font-family="monospace" font-size="10" letter-spacing="2">GRAPHIC DESIGN &amp; BRANDING STUDIES</text>
+</svg>

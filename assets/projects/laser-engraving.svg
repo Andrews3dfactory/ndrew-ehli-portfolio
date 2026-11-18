@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 405">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1b2b3a"/><stop offset="1" stop-color="#0d131b"/></linearGradient><radialGradient id="glow"><stop stop-color="#f0bf69" stop-opacity=".2"/><stop offset="1" stop-color="#f0bf69" stop-opacity="0"/></radialGradient></defs>
+  <rect width="720" height="405" fill="url(#bg)"/><circle cx="461" cy="177" r="215" fill="url(#glow)"/>
+  <path d="M147 88h424l42 35v151l-42 28H147l-42-28V123l42-35Z" fill="#111923" stroke="#53697c" stroke-width="2"/><path d="M128 123h462M128 272h462" stroke="#354b5d" stroke-width="2"/>
+  <path d="M202 123v25h42v-25m218 0v25h42v-25" fill="none" stroke="#6c8295" stroke-width="5"/><path d="M451 148 360 207" stroke="#73e2e6" stroke-width="2" stroke-dasharray="5 6"/><circle cx="360" cy="207" r="9" fill="#73e2e6" fill-opacity=".26"/><circle cx="360" cy="207" r="3" fill="#d2fbff"/>
+  <rect x="185" y="211" width="350" height="57" rx="5" fill="#402e22" stroke="#a27c55"/><path d="M208 239h302m-275-15 25 30m32-30 25 30m32-30 25 30m32-30 25 30" stroke="#c39868" stroke-opacity=".58"/>
+  <path d="M275 239c27-22 52-22 79 0 27 22 52 22 79 0" fill="none" stroke="#f0bf69" stroke-width="2"/><circle cx="354" cy="239" r="7" fill="#f0bf69" fill-opacity=".27"/>
+  <rect x="546" y="157" width="75" height="56" rx="4" fill="#142230" stroke="#40566b"/><circle cx="567" cy="180" r="7" fill="#65c7d7"/><path d="M582 177h27m-27 9h20" stroke="#8096a9"/>
+  <text x="48" y="354" fill="#f3f1e9" font-family="Arial,sans-serif" font-size="18" font-weight="650">LASER ENGRAVING</text><text x="48" y="380" fill="#a9a293" font-family="monospace" font-size="10" letter-spacing="2">DIGITAL ART, ETCHED INTO MATERIAL</text>
+</svg>

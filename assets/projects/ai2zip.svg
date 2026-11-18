@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 405">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#142437"/><stop offset="1" stop-color="#0b1119"/></linearGradient><radialGradient id="glow"><stop stop-color="#4aa8ff" stop-opacity=".2"/><stop offset="1" stop-color="#4aa8ff" stop-opacity="0"/></radialGradient></defs>
+  <rect width="720" height="405" fill="url(#bg)"/><circle cx="468" cy="170" r="225" fill="url(#glow)"/>
+  <rect x="38" y="46" width="424" height="260" rx="10" fill="#0c121a" stroke="#394a5d"/><path d="M38 81h424" stroke="#394a5d"/><circle cx="58" cy="64" r="4" fill="#78c2ff"/><circle cx="73" cy="64" r="4" fill="#4a5967"/><circle cx="88" cy="64" r="4" fill="#4a5967"/>
+  <text x="60" y="108" fill="#83a0bc" font-family="monospace" font-size="9" letter-spacing="2">AI RESPONSE</text>
+  <g stroke="#537087" stroke-width="4" stroke-linecap="round"><path d="M62 130h246"/><path d="M62 147h213"/><path d="M62 164h234"/><path d="M62 181h197"/><path d="M62 214h270"/><path d="M62 231h222"/><path d="M62 248h253"/></g>
+  <path d="M329 176h83m-15-15 15 15-15 15" fill="none" stroke="#73e2e6" stroke-width="2"/>
+  <rect x="487" y="103" width="185" height="172" rx="12" fill="#152435" stroke="#5485ad"/><path d="M487 145h185" stroke="#3d5872"/>
+  <path d="M552 85h54l12 18v12h-78v-12l12-18Z" fill="#2675b5" stroke="#73bfff"/><path d="M552 85v30m54-30v30m-66-12h78" fill="none" stroke="#9bd1ff"/>
+  <text x="515" y="172" fill="#dbeeff" font-family="Arial" font-size="15" font-weight="600">PROJECT.ZIP</text><text x="515" y="195" fill="#91a8bd" font-family="monospace" font-size="9">DOWNLOAD READY</text>
+  <rect x="515" y="218" width="128" height="5" rx="2" fill="#30465b"/><rect x="515" y="218" width="88" height="5" rx="2" fill="#4aa8ff"/>
+  <text x="39" y="355" fill="#e9f4ff" font-family="Arial,sans-serif" font-size="19" font-weight="650">AI2ZIP</text><text x="39" y="380" fill="#90a5ba" font-family="monospace" font-size="10" letter-spacing="2">FROM RESPONSE TO DOWNLOADABLE PROJECT</text>
+</svg>

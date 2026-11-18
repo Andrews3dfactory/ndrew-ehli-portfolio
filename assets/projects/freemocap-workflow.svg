@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 405">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#112539"/><stop offset="1" stop-color="#0b131d"/></linearGradient><radialGradient id="glow"><stop stop-color="#38b9d1" stop-opacity=".18"/><stop offset="1" stop-color="#38b9d1" stop-opacity="0"/></radialGradient></defs>
+  <rect width="720" height="405" fill="url(#bg)"/><circle cx="458" cy="174" r="210" fill="url(#glow)"/>
+  <text x="48" y="54" fill="#86b6d2" font-family="monospace" font-size="9" letter-spacing="2">CAPTURE → TRACK → CREATE</text>
+  <rect x="45" y="90" width="166" height="196" rx="10" fill="#121d2a" stroke="#3d6078"/><rect x="97" y="109" width="61" height="111" rx="10" fill="#1c2e40" stroke="#8ac4e8"/><rect x="102" y="117" width="51" height="94" rx="6" fill="#182739"/>
+  <circle cx="128" cy="153" r="11" fill="#63b2e8"/><path d="m128 165-4 24m4-18-14 12m14-12 13 10m-17 8-8 20m12-20 8 20" fill="none" stroke="#bce8ff" stroke-width="3" stroke-linecap="round"/>
+  <text x="79" y="251" fill="#d6e8f4" font-family="Arial" font-size="10">Phone video</text><text x="91" y="267" fill="#829caf" font-family="monospace" font-size="8">CAPTURE</text>
+  <path d="M220 185h54m-13-13 13 13-13 13" fill="none" stroke="#78c2ff" stroke-width="2"/>
+  <rect x="281" y="90" width="166" height="196" rx="10" fill="#121d2a" stroke="#3d777c"/><circle cx="364" cy="172" r="49" fill="#132a35" stroke="#54b8c2"/><circle cx="364" cy="143" r="9" fill="#73e2e6"/><path d="m364 153-2 29-19 18m19-18 20 17m-20-17-12 39m12-39 14 38" fill="none" stroke="#b0f2ec" stroke-width="3" stroke-linecap="round"/><circle cx="343" cy="199" r="3" fill="#43aebc"/><circle cx="384" cy="199" r="3" fill="#43aebc"/>
+  <text x="312" y="251" fill="#d6e8f4" font-family="Arial" font-size="10">Markerless tracking</text><text x="347" y="267" fill="#829caf" font-family="monospace" font-size="8">FREEMOCAP</text>
+  <path d="M456 185h54m-13-13 13 13-13 13" fill="none" stroke="#78c2ff" stroke-width="2"/>
+  <rect x="517" y="90" width="158" height="196" rx="10" fill="#121d2a" stroke="#67577c"/><path d="m596 128 40 23v46l-40 23-39-23v-46l39-23Z" fill="#24213a" stroke="#b69aff"/><path d="m557 151 39 23 40-23m-40 23v46" fill="none" stroke="#8d7bcb"/><circle cx="595" cy="151" r="4" fill="#b9a2ff"/>
+  <text x="561" y="251" fill="#d6e8f4" font-family="Arial" font-size="10">Motion in Blender</text><text x="572" y="267" fill="#829caf" font-family="monospace" font-size="8">VISUALIZE</text>
+  <text x="45" y="350" fill="#eaf5ff" font-family="Arial,sans-serif" font-size="18" font-weight="650">FREEMOCAP WORKFLOW</text><text x="45" y="377" fill="#91a6b9" font-family="monospace" font-size="10" letter-spacing="2">A BEGINNER-FRIENDLY MOTION CAPTURE GUIDE</text>
+</svg>
